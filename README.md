@@ -1,0 +1,2 @@
+# FrozenMagisk
+FrozenMagisk
